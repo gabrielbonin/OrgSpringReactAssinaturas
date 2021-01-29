@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OrgwebApplication<orgweb>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.org.web.cmp.ifsp.orgweb.OrgwebApplication",
+            "projectName": "orgweb",
+            "args": ""
+        }
+    ]
+}
